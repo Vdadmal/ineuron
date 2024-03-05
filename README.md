@@ -1,1 +1,2 @@
-## This the git tutorials by krish
+## This the git tutorials by vaibhav
+## We will learn github
